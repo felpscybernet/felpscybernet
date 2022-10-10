@@ -1,7 +1,7 @@
 <h2>Opa!Meu Nome é Filipe</h2>
 
 ●Apaixonado por Segurança Da Informação!!<br>
-●Estudando python C#, Jogo CTFS, é faço bug bounty.<br>
+●Estudando python, C#. Jogo CTFS, é faço bug bounty de empresas.<br>
 ●Estou cursando Sistema Em Informação.<br>
 
 <div align="center">
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpscybernet&layout=compact&langs_count=7&theme=outrun"/>
    <br>
 
-   
+
   ##
   
   <div>
