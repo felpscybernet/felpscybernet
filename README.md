@@ -2,8 +2,7 @@
 
 ●Apaixonado por Segurança Da Informação!!<br>
 ●Estudando python C#, Jogo CTFS, é faço bug bounty.<br>
-●Estou cursando Sistem Em Informação.<br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=felpscybernet.visitor-badge">
+●Estou cursando Sistema Em Informação.<br>
 
 <div align="center">
   <a href="https://github.com/felpscybernet">
@@ -11,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpscybernet&layout=compact&langs_count=7&theme=outrun"/>
    <br>
 
-  
+   
   ##
   
   <div>
