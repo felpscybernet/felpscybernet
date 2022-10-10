@@ -1,7 +1,7 @@
 <h2>Opa!Meu Nome é Filipe</h2>
 
 ●Apaixonado por Segurança Da Informação!!<br>
-●Estudando python, C#. Jogo CTFS, é faço bug bounty de empresas.<br>
+●Estudando python, C#. Jogo CTFS, é faço bug bounty de empresas .<br>
 ●Estou cursando Sistema Em Informação.<br>
 
 <div align="center">
@@ -16,6 +16,5 @@
   <div>
     <a href="https://www.linkedin.com/in/filipe-santos-araujo-1b809b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
     <a href="https://www.instagram.com/filipesantosaraujo34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
-    <a href="https://dashboard.heroku.com/apps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/heroku.yml" alt="programmerscrunity" height="30" width="40" /></a>
-    
+ 
   </div>
