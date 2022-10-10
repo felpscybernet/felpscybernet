@@ -16,6 +16,6 @@
   <div>
     <a href="https://www.linkedin.com/in/filipe-santos-araujo-1b809b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
     <a href="https://www.instagram.com/filipesantosaraujo34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
-    <a href="https://dashboard.heroku.com/apps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/heroku.svg" alt="programmerscrunity" height="30" width="40" /></a>
+    <a href="https://dashboard.heroku.com/apps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/heroku.yml" alt="programmerscrunity" height="30" width="40" /></a>
     
   </div>
