@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2>Opa!Meu Nome é Filipe</h2>
 
-<!--
-**felpscybernet/felpscybernet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+●Apaixonado por Segurança Da Informação!!<br>
+●Estudando python C#, Jogo CTFS, é faço bug bounty.<br>
+●Estou cursando Sistem Em Informação.<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=felpscybernet.visitor-badge">
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/felpscybernet">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpscybernet&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpscybernet&layout=compact&langs_count=7&theme=outrun"/>
+   <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/filipe-santos-araujo-1b809b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/filipesantosaraujo34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
+ 
+  </div>
